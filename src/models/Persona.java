@@ -1,4 +1,5 @@
 package src.models;
+
 public class Persona {
     private String nombre;
     private int edad;
